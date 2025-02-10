@@ -1,0 +1,183 @@
+{
+  "protocol_title": "Double-blind, Double-dummy, Phase 2 Randomized, Multicenter, Proof-of-Concept, Safety and Efficacy Trial to Evaluate Different Oral Benznidazole Monotherapy and Benznidazole/E1224 Combination Regimens for the Treatment of Adult Patients with Chronic Indeterminate Chagas Disease",
+  "short_title": "BENDITA BEnznidazole New Doses Improved Treatment and Associations",
+  "protocol_number": "DNDi-CH-E1224-003",
+  "version_and_date": "Version 5.0 / May 04, 2018",
+  "study_phase": "Phase 2",
+  "indication": "Chronic Indeterminate Chagas Disease",
+  "sponsor": "DNDi",
+  "background": "The current treatment for Chagas disease has significant limitations, including long treatment durations, safety and tolerability concerns and is currently limited to two nitro-heterocyclic drugs, nifurtimox and benznidazole (BZN). BZN, a nitroimidazole introduced by Roche in 1971, is marketed by Laboratório Farmacêutico do Estado de Pernambuco S/A ± LAFEPE and Laboratorio ELEA ± Argentina. It is supplied in tablets strengths of 12.5, 50 and 100 mg, administered twice daily at a dose of 5 mg/kg body weight/day for adults and 5-10 mg/kg body weight/day for children for 30-60 days. Notably, the current regimens with BZN for the treatment of adults with CD likely represent the maximum dosing case scenario in terms of dose, duration and schedule of administration. Doses and duration of treatment for CD have not been evaluated systematically. Current treatment regimens and dosing intervals have been derived from decades-old patient series and with very limited direct comparisons. Data from recently concluded trials suggest existing opportunities for optimisation of the treatment regimens of BZN.",
+  "mechanism_of_action": "E1224 is a water-soluble monolysine salt form of the ravuconazole (RAV) pro-drug (which is a phosphonooxymethyl ether derivative of RAV). It is a broad-spectrum triazole antifungal.",
+  "justification_for_study_design": "The selection of a placebo-controlled Phase 2 clinical trial design was based on the requirements for well-controlled proof-of-concept, efficacy and safety data for Benznidazole and Beznnidazole/E1224 for this therapeutic indication.",
+  "primary_objectives": [
+    "To determine the efficacy of different dosing regimens of orally administered BZN and BZN/E1224 in individuals with chronic indeterminate CD, by determining the proportion of patients who convert from positive to negative in serial, qualitative PCR test results (3 negative PCR results) at end of treatment (EOT) and sustain parasitological clearance at 6 months of follow-up, in comparison to placebo.",
+    "To assess the efficacy of E1224 in combination with Benznidazole in achieving sustained parasitological clearance."
+  ],
+  "secondary_objectives": [
+    "To assess the sustained parasitological response at week 12, and 12 months for each of the regimens, in comparison with placebo.",
+    "To correlate pharmacokinetic parameters with parasitological response and safety outcomes.",
+    "To measure the reduction in parasite load at weeks 1, 2, 3, 4, 6, 10, 12 and at 4, 6 and 12 months follow-up, as measured by quantitative PCR.",
+    "To evaluate the incidence of Serious Adverse Events (SAEs) and/or adverse events leading to discontinuation of treatment.",
+    "To assess the time to sustained clearance of parasitemia for each of the treatment regimens.",
+    "To evaluate the safety profile of different regimens based on clinical, laboratory measurements, and EKG.",
+    "To characterize the population pharmacokinetic parameters of orally administered BZN and BZN/E1224 in adults with chronic indeterminate CD.",
+    "To explore if there is a dose-response relationship between the dose of treatment given and parasite clearance in order to determine the minimum effective dose.",
+    "To assess the time to parasite DNA clearance (below the quantitative PCR [qPCR] Limit of Detection [LOD]) for each of the regimens.",
+    "To evaluate the safety and tolerability of E1224 and Benznidazole.",
+    "To evaluate serological response by conventional serology at 12 months of follow up and non-conventional serology at W12, 4M, 6M, and 12 months of follow up."
+  ],
+  "exploratory_objectives": [],
+  "primary_endpoints": [
+    "Parasitological response as determined by serial negative qualitative PCR results (3 negative PCR results, from 3 samples to be collected in the same day) at EOT and sustained parasitological clearance until 6 months follow-up.",
+    "Sustained parasitological clearance as determined by serial qualitative PCR results."
+  ],
+  "secondary_endpoints": [
+    "Parasite clearance at weeks 1, 2, 3, 4, 6, 10, 12, and at 4, 6, and 12 months follow-up as measured by qualitative PCR.",
+    "Sustained parasitological clearance at 12 weeks and 12 months of follow-up.",
+    "Serological response by conventional serology assessed at 12 months of follow up and non-conventional serology assessed at W12, 4, 6, and 12 months of follow up.",
+    "Safety assessments through adverse event monitoring and laboratory evaluations.",
+    "Change in parasite load over time assessed at weeks 1, 2, 3, 4, 6, 10, 12, and at 4, 6, and 12 months follow-up as measured by quantitative PCR."
+  ],
+  "exploratory_endpoints": [],
+  "design": "Double-blind, double-dummy, randomized, prospective, comparative, placebo-controlled, pharmacokinetic-pharmacodynamic, and proof-of-concept trial design, with seven-parallel groups.",
+  "arms": [
+    {
+      "arm_name": "Benznidazole 300 mg",
+      "treatment_description": "Benznidazole administered at a fixed dose of 300 mg daily.",
+      "dosing_schedule": "8 weeks, weekly doses."
+    },
+    {
+      "arm_name": "Benznidazole 150 mg",
+      "treatment_description": "Benznidazole administered at a fixed dose of 150 mg daily.",
+      "dosing_schedule": "4 weeks."
+    },
+    {
+      "arm_name": "Benznidazole/E1224 Combination",
+      "treatment_description": "Combination of Benznidazole and E1224.",
+      "dosing_schedule": "8 weeks."
+    },
+    {
+      "arm_name": "Placebo",
+      "treatment_description": "Placebo control arm.",
+      "dosing_schedule": "Negative control arm."
+    },
+    {
+      "arm_name": "Benznidazole 300 mg - 8 weeks",
+      "treatment_description": "Benznidazole administered for 8 weeks.",
+      "dosing_schedule": "300 mg daily for 8 weeks."
+    },
+    {
+      "arm_name": "Benznidazole 300 mg - 4 weeks",
+      "treatment_description": "Benznidazole administered for 4 weeks.",
+      "dosing_schedule": "300 mg daily for 4 weeks."
+    },
+    {
+      "arm_name": "Benznidazole 300 mg - 2 weeks",
+      "treatment_description": "Benznidazole administered for 2 weeks.",
+      "dosing_schedule": "300 mg daily for 2 weeks."
+    },
+    {
+      "arm_name": "Benznidazole 150 mg - 4 weeks",
+      "treatment_description": "Benznidazole administered for 4 weeks.",
+      "dosing_schedule": "150 mg daily for 4 weeks."
+    },
+    {
+      "arm_name": "Benznidazole 150 mg - 4 weeks / E1224 300 mg",
+      "treatment_description": "Combination of Benznidazole and E1224.",
+      "dosing_schedule": "150 mg daily for 4 weeks and E1224 300 mg."
+    },
+    {
+      "arm_name": "Benznidazole 300 mg (weekly doses) - 8 weeks / E1224 300 mg",
+      "treatment_description": "Combination of Benznidazole and E1224.",
+      "dosing_schedule": "Weekly doses of 300 mg for 8 weeks and E1224 300 mg."
+    },
+    {
+      "arm_name": "Placebo",
+      "treatment_description": "Placebo administered.",
+      "dosing_schedule": "Matching placebo for the duration of the trial."
+    }
+  ],
+  "blinding": "Double-blind",
+  "randomization": "Randomized, balanced block randomization.",
+  "study_duration": "Approximately 28 months, with patient participation lasting about 13 months.",
+  "target_population": "Adult patients aged >18 to <50 years with confirmed T. cruzi infection.",
+  "sample_size": 210,
+  "inclusion_criteria": [
+    "No history of hypersensitivity, allergic, or serious adverse reactions to any of the compounds.",
+    "Diagnosis of T. cruzi infection by conventional serology (a minimum of two positive tests).",
+    "No formal contraindication to BZN and E1224.",
+    "Signed, written informed consent form.",
+    "No signs and/or symptoms of the chronic cardiac and/or digestive form of CD.",
+    "No history of CD treatment with BZN or NFX at any time in the past.",
+    "Informed consent obtained.",
+    "Patients must be residents of areas free of vectorial transmission.",
+    "Adults aged 18 years or older.",
+    "Weight >50 kg to <80 kg.",
+    "Confirmed diagnosis of chronic indeterminate Chagas disease.",
+    "Age >18 to <50 years.",
+    "No acute or chronic health conditions that may interfere with the efficacy and/or safety evaluation of the trial drug.",
+    "Ability to comply with all protocol specified tests and visits and have a permanent address."
+  ],
+  "exclusion_criteria": [
+    "Severe comorbidities that may interfere with trial participation.",
+    "Signs and/or symptoms of chronic cardiac and/or digestive form of CD.",
+    "Any other acute or chronic health conditions that may interfere with the efficacy and/or safety evaluation of the trial drug.",
+    "History of significant adverse reactions to Benznidazole or E1224.",
+    "Pregnant or breastfeeding women.",
+    "History of digestive surgery or mega syndromes.",
+    "Laboratory test values considered clinically significant or out of the allowable range.",
+    "History of cardiomyopathy, heart failure, or ventricular arrhythmia."
+  ],
+  "investigational_product": "E1224 (Fosravuconazole drug substance equivalent to 100 mg of Ravuconazole), Abarax (Benznidazole; N-benzil-2-nitro-1-imidazolacetamide)",
+  "comparator": "Placebo",
+  "dosage_and_administration": [
+    {
+      "drug_name": "Benznidazole",
+      "dose": "100 mg or 50 mg tablets",
+      "frequency": "Twice daily",
+      "route_of_administration": "Oral"
+    },
+    {
+      "drug_name": "E1224",
+      "dose": "100 mg capsules",
+      "frequency": "Once daily",
+      "route_of_administration": "Oral"
+    },
+    {
+      "drug_name": "Benznidazole",
+      "dose": "300 mg",
+      "frequency": "Daily",
+      "route_of_administration": "Oral"
+    },
+    {
+      "drug_name": "E1224",
+      "dose": "300 mg",
+      "frequency": "As per arm schedule",
+      "route_of_administration": "Oral"
+    }
+  ],
+  "efficacy_assessments": [
+    "Serial qualitative PCR results to determine parasitological clearance.",
+    "Parasitological response as determined by serial negative qualitative PCR results.",
+    "Sustained parasitological clearance at 12 weeks and 12 months of follow-up."
+  ],
+  "safety_assessments": [
+    "Monitoring of adverse events and laboratory evaluations.",
+    "Incidence and severity of adverse events (clinical, laboratory measurements, and EKG).",
+    "Incidence of SAEs and/or adverse events leading to treatment discontinuation."
+  ],
+  "pharmacokinetic_assessments": [
+    "Population pharmacokinetic parameters will include: AUC, Cmax, Cmin, CL, Vd, and t1/2.",
+    "Blood samples for pharmacokinetic analysis at specified time points.",
+    "Blood level concentrations will be determined at D0 (pre-dose), after first day of treatment administration (day 1, post-dose), at day 2 and day 3, at steady-state phase (week 2-10)."
+  ],
+  "immunogenicity_markers": [],
+  "sample_size_justification": "A total of 210 patients will be recruited in the trial.",
+  "statistical_analysis_plan": "Primary efficacy analyses will be performed when all patients complete 6 months follow-up visit.",
+  "interim_analysis": "An efficacy interim analysis will be performed when 30% of patients completed 12 weeks from treatment initiation.",
+  "ethical_considerations": "Informed consent process will be followed, and ethical aspects of patient inclusion and trial procedures will be adhered to.",
+  "data_monitoring": "Efficacy and safety will be monitored by an external independent Data Monitoring Committee (DMC) on an ongoing basis.",
+  "estimated_study_start_date": "TBD",
+  "estimated_study_completion_date": "TBD",
+  "follow_up_duration": "12 months after treatment initiation."
+}
