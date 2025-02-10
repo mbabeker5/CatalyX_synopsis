@@ -92,10 +92,3 @@ The tool includes robust error handling for:
 - API rate limiting
 - Invalid data formats
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[MIT License](LICENSE) 
